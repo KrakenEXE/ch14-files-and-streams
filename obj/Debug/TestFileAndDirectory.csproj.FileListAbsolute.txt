@@ -1,0 +1,8 @@
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.exe
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.exe
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.pdb
+D:\csharp\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.exe.config
+D:\csharp\Chapter 14\Exercises14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.exe
+D:\csharp\Chapter 14\Exercises14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.pdb
